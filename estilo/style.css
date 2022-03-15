@@ -196,6 +196,10 @@ main img {
   margin: auto;
 }
 
+.dandroid {
+  min-height: 400px;
+}
+
 div.video {
   background-color: var(--cor5);
   margin-bottom: 30px;
