@@ -197,7 +197,11 @@ main img {
 }
 
 .dandroid {
-  min-height: 400px;
+  min-height: 390px;
+}
+
+.irinablok {
+  min-height: 390px;
 }
 
 div.video {
